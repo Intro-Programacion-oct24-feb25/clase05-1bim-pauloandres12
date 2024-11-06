@@ -20,8 +20,8 @@ public class Ejemplo1 {
         double promedio = 7.5;
 
         if (promedio >= 7.5) {
-            System.out.printf("Estudiante aprobado con un "
-                    + "promedio: %.2f\n", promedio);
+            System.out.printf("Estudiante aprobado con un "+"promedio: "
+                    + "%.2f\n", promedio);
         }
 
         if (promedio == 7.5) {
