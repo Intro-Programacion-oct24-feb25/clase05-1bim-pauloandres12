@@ -25,7 +25,8 @@ public class Ejemplo6 {
         // O    1
         // J    2 
         // A    3
-        // 
+        // substring sirve para elegir dentro de una cadena un caracter 
+        // que tu elijas
         String inicial = ciudad.substring(0, 1); // se obtiene 
         // el primer 
         // caracter de la cadena
