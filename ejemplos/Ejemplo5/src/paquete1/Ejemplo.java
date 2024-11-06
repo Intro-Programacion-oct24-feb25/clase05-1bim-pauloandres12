@@ -29,6 +29,7 @@ public class Ejemplo {
         numeroIngresado = entrada.nextInt();
 
         if (numeroIngresado % 2 == 0) {
+            //"%" representa el mod, el cual nos da el residuo de la division
             System.out.printf("Resultado %s\n", mensajeUno);
         } else {
             System.out.printf("Resultado %s\n", mensajeDos);
